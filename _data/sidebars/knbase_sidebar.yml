@@ -36,6 +36,14 @@ entries:
             url: /db_terms.html
             output: web, pdf
 
+          - title: Оптимизация запросов
+            url: /db_optimization.html
+            output: web, pdf
+
+          - title: Уровни изоляции
+            url: /db_isolation_levels.html
+            output: web, pdf
+
       - title: HTTP
         output: web, pdf
 
@@ -46,6 +54,22 @@ entries:
 
           - title: Request life cycle
             url: /http_request_life_cycle.html
+            output: web, pdf
+
+      - title: ООП
+        output: web, pdf
+
+        folderitems:
+          - title: 3 столпа ООП
+            url: /oop_main_terms.html
+            output: web, pdf
+
+          - title: SOLID
+            url: /oop_solid.html
+            output: web, pdf
+
+          - title: GRASP
+            url: /oop_grasp.html
             output: web, pdf
 
 # Copyright 2021 Google LLC
