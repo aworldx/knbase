@@ -21,7 +21,7 @@ entries:
         output: web, pdf
         folderitems:
           - title: Индексы
-            url: /db_indexes.html
+            url: /db/indexes.html
             output: web
 
           - title: ACID
