@@ -72,4 +72,17 @@ entries:
             url: /oop_grasp.html
             output: web, pdf
 
+
+      - title: Jobs
+        output: web, pdf
+
+        folderitems:
+          - title: Вопросы рекрутеру
+            url: /hh_interview.html
+            output: web, pdf
+
+          - title: Тех вопросы
+            url: /tech_interview.html
+            output: web, pdf
+
 # Copyright 2021 Google LLC
