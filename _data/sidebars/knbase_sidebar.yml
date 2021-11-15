@@ -1,0 +1,51 @@
+entries:
+  - title: Sidebar
+    product: knbase
+    version: 1.0
+    folders:
+
+      - title:
+        output: pdf
+        type: frontmatter
+        folderitems:
+          - title:
+            url: /titlepage.html
+            output: pdf
+            type: frontmatter
+          - title:
+            url: /tocpage.html
+            output: pdf
+            type: frontmatter
+
+      - title: Базы данных
+        output: web, pdf
+        folderitems:
+          - title: Индексы
+            url: /db_indexes.html
+            output: web
+
+          - title: ACID
+            url: /db_acid.html
+            output: web, pdf
+
+          - title: Нормальные формы
+            url: /db_forms.html
+            output: web, pdf
+
+          - title: Термины
+            url: /db_terms.html
+            output: web, pdf
+
+      - title: HTTP
+        output: web, pdf
+
+        folderitems:
+          - title: REST
+            url: /http_rest.html
+            output: web, pdf
+
+          - title: Request life cycle
+            url: /http_request_life_cycle.html
+            output: web, pdf
+
+# Copyright 2021 Google LLC
