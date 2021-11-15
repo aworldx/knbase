@@ -7,6 +7,28 @@ permalink: db_indexes.html
 folder: knbase
 ---
 
-## indexes
+## Виды индексов в postgres
 
-xxx
+Postgres поддерживает 5 типов индексов:
+- B-дерево,
+- хеш
+- GiST
+- SP-GiST
+- GIN
+- BRIN
+
+### Особенности B-дерева
+- индекс по умолчанию в Rails
+- самый популярный
+- работает только с сортируемыми данными: < <= = >= >
+
+### Особенности хеш индекса
+- работает только с простыми условиями равенства
+- не рекомендуется их использовать
+
+
+
+
+### Ссылки
+- https://postgrespro.ru/docs/postgresql/9.6/indexes-types
+- https://tproger.ru/articles/indeksy-v-postgresql/
