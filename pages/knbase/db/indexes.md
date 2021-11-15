@@ -3,8 +3,8 @@ title: Indexes
 keywords: db
 summary: "This is just a sample topic..."
 sidebar: knbase_sidebar
-permalink: dbindexes.html
-folder: knbase
+permalink: indexes.html
+folder: db
 ---
 
 ## indexes
