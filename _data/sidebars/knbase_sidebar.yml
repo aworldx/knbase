@@ -64,6 +64,10 @@ entries:
             url: /oop_main_terms.html
             output: web, pdf
 
+          - title: 3 столпа ООП
+            url: /oop_polymorphism.html
+            output: web, pdf
+
           - title: SOLID
             url: /oop_solid.html
             output: web, pdf
