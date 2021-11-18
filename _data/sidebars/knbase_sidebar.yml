@@ -44,6 +44,10 @@ entries:
             url: /db_isolation_levels.html
             output: web, pdf
 
+          - title: Оконные функции
+            url: /db_db_window_functions.html
+            output: web, pdf
+
       - title: HTTP
         output: web, pdf
 
@@ -64,7 +68,7 @@ entries:
             url: /oop_main_terms.html
             output: web, pdf
 
-          - title: 3 столпа ООП
+          - title: Полиморфизм
             url: /oop_polymorphism.html
             output: web, pdf
 
