@@ -93,16 +93,16 @@ entries:
             output: web, pdf
 
           - title: Singleton class
-              url: /ruby_singleton.html
-              output: web, pdf
+            url: /ruby_singleton.html
+            output: web, pdf
 
           - title: Method lookup
-              url: /ruby_method_lookup.html
-              output: web, pdf
+            url: /ruby_method_lookup.html
+            output: web, pdf
 
           - title: Load Vs Require
-              url: /ruby_load_vs_require.html
-              output: web, pdf
+            url: /ruby_load_vs_require.html
+            output: web, pdf
 
       - title: Jobs
         output: web, pdf
