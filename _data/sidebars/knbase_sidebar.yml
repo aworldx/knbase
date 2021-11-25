@@ -125,8 +125,9 @@ entries:
             output: web, pdf
 
       - title: Rails
-          output: web, pdf
+        output: web, pdf
 
+        folderitems:
           - title: Rails preloading
             url: /rails_preloading.html
             output: web, pdf
