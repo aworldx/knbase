@@ -48,6 +48,10 @@ entries:
             url: /db_window_functions.html
             output: web, pdf
 
+          - title: Нормальные формы
+            url: /db_normal_forms.html
+            output: web, pdf
+
       - title: HTTP
         output: web, pdf
 
