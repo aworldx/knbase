@@ -3,7 +3,7 @@ title: Модуль и класс в Ruby
 keywords: ruby
 summary: "This is just a sample topic..."
 sidebar: knbase_sidebar
-permalink: ruby_class_and_modulehtml
+permalink: ruby_class_and_module.html
 folder: knbase
 ---
 
