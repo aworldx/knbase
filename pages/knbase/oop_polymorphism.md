@@ -28,4 +28,12 @@ folder: knbase
 Параметрический полиморфизм поддерживают все функциональные языки программирования.
 Среди ООП языков он также поддерживается: C++, C# templates, generics in JAVA
 
-## Subtyping polymorphism
+## Subtyping polymorphism (Inclusion Polymorphism)
+Функция может принимать объект типа T, но также и объект типа S. Тип S при этом является подтипом типа T.
+
+S <: T
+
+Примеры:
+- Абстрактные классы в C++
+- Интерфейсы в GO
+- Duck Typing в ruby

@@ -56,8 +56,12 @@ entries:
             url: /http_rest.html
             output: web, pdf
 
-          - title: Request life cycle
-            url: /http_request_life_cycle.html
+          - title: Типы запросов и коды ответов
+            url: /http_requests.html
+            output: web, pdf
+
+          - title: Различия между GET и POST
+            url: /http_get_post_diff.html
             output: web, pdf
 
       - title: ООП
@@ -102,6 +106,10 @@ entries:
 
           - title: Load Vs Require
             url: /ruby_load_vs_require.html
+            output: web, pdf
+
+          - title: Blocks Proc Lambda
+            url: /ruby_block_proc_lambda.html
             output: web, pdf
 
       - title: Jobs
