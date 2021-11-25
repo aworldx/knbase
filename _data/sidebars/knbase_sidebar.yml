@@ -28,10 +28,6 @@ entries:
             url: /db_acid.html
             output: web, pdf
 
-          - title: Нормальные формы
-            url: /db_forms.html
-            output: web, pdf
-
           - title: Термины
             url: /db_terms.html
             output: web, pdf
