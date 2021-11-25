@@ -116,6 +116,21 @@ entries:
             url: /ruby_block_proc_lambda.html
             output: web, pdf
 
+          - title: Patterns
+            url: /ruby_patterns.html
+            output: web, pdf
+
+          - title: Pass by value or reference
+            url: /ruby_value_or_reference.html
+            output: web, pdf
+
+      - title: Rails
+          output: web, pdf
+
+          - title: Rails preloading
+            url: /rails_preloading.html
+            output: web, pdf
+
       - title: Jobs
         output: web, pdf
 
