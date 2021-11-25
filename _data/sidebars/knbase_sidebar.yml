@@ -80,6 +80,29 @@ entries:
             url: /oop_grasp.html
             output: web, pdf
 
+      - title: Ruby
+        output: web, pdf
+
+        folderitems:
+          - title: Модуль и класс в руби
+            url: /ruby_class_and_module.html
+            output: web, pdf
+
+          - title: Интерпретация руби программ
+            url: /ruby_interpretation.html
+            output: web, pdf
+
+          - title: Singleton class
+              url: /ruby_singleton.html
+              output: web, pdf
+
+          - title: Method lookup
+              url: /ruby_method_lookup.html
+              output: web, pdf
+
+          - title: Load Vs Require
+              url: /ruby_load_vs_require.html
+              output: web, pdf
 
       - title: Jobs
         output: web, pdf
