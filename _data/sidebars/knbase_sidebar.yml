@@ -120,6 +120,14 @@ entries:
             url: /ruby_value_or_reference.html
             output: web, pdf
 
+          - title: Garbage collection
+            url: /ruby_gc.html
+            output: web, pdf
+
+          - title: Global Interpreter Lock
+            url: /ruby_gil.html
+            output: web, pdf
+
       - title: Rails
         output: web, pdf
 
