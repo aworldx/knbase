@@ -64,6 +64,10 @@ entries:
             url: /http_get_post_diff.html
             output: web, pdf
 
+          - title: Виды аутентификации
+            url: /http_auth.html
+            output: web, pdf
+
       - title: ООП
         output: web, pdf
 
